@@ -1,12 +1,12 @@
-# _Anagram_
+# _Anagram Verifier_
 
-##### _Anagram verifier, 8-12-15_
+##### _It tells whether or not a given word is an anagram of another, 8-12-15_
 
-#### By _**Brian Borealis, Julian Stewart and Dillon Lloyd**_
+#### By _**Brian Borealis, Julian Stewart and Dillon Lloyd Lee**_
 
 ## Description
 
-_User inputs one word and a list of possible anagrams. Program tells which are indeed correct anagrams._
+_User inputs one word and a list of possible anagrams, then the program tells which words are indeed correct anagrams._
 
 ## Setup
 
@@ -22,7 +22,7 @@ _Made using PHP, HTML, Silex, Composer, Twig.  Tests conducted with PHPUnit._
 ### Legal
 
 
-Copyright (c) 2015 **_{Brian Borealis, Julian Stewart and Dillon Lloyd}_**
+Copyright (c) 2015 **_Brian Borealis, Julian Stewart and Dillon Lloyd Lee_**
 
 This software is licensed under the MIT license.
 
